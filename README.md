@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/30007418/203515820-badb66f1-16af-4414-9b4a-a732f0c03074.png)
 
 - Vue Carbon Stacked area Chart
-![image](https://user-images.githubusercontent.com/30007418/203516046-1fa8c589-9e4c-41d3-8897-a9dc57b569d4.png)
+![image](https://user-images.githubusercontent.com/30007418/203516374-99283193-1f61-4e3a-aafc-8e7a7bdea9b3.png)
 
 ## Project setup
 ```
